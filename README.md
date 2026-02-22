@@ -8,34 +8,28 @@
 
 ---
 
-### :hammer_and_wrench: Web Development :
 <div align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,php,js,symfony,typescript" />
 </div>
 
-### :hammer_and_wrench: Other Languages :
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=lua,cs,py" />
 </div>
 
-### :hammer_and_wrench: Technologies :
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker" />
 </div>
 
-### :hammer_and_wrench: Database :
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </div>
 
-### :hammer_and_wrench: Creative :
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=photoshop,pr,ae" />
 </div>
 
 ---
 
-### 💬 How to reach me :
 <p align="center">
    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50" />
 </p>
