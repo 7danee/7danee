@@ -1,21 +1,42 @@
-# Willkommen auf meinem GitHub-Profil 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
-## Ich benutze hauptsächlich:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World&hearts;++;Self-taught+Developer,;Learning+Web/Game+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
+</p>
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+---
 
-## Hier kannst du mich überall kontaktieren:
+### :hammer_and_wrench: Web Development :
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,symfony,typescript" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dein-profil/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dein-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://deine-website.de)
-[![E-Mail](https://img.shields.io/badge/-E--Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deine-email@example.com)
+### :hammer_and_wrench: Other Languages :
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=lua,cs,py" />
+</div>
+
+### :hammer_and_wrench: Technologies :
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker" />
+</div>
+
+### :hammer_and_wrench: Database :
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+</div>
+
+### :hammer_and_wrench: Creative :
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=photoshop,pr,ae" />
+</div>
+
+---
+
+### 💬 How to reach me :
+<p align="center">
+   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="50" />
+</p>
+<p align="center">7danee</p>
