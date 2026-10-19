@@ -19,6 +19,4 @@
 
 ### Kontakt
 
-<p>
-  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="18" align="center" alt="Discord">&nbsp; <b>7danee</b>
-</p>
+<img src="https://img.shields.io/badge/Discord-7danee-141b29?style=flat-square&logo=discord&logoColor=34d399&labelColor=141b29" alt="Discord: 7danee">
