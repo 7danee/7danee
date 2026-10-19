@@ -1,23 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="7danee – UI / NUI für GTA-V-Roleplay" width="100%">
-</p>
-
-<p align="center">
-  UI / NUI für GTA-V-Roleplay · Webentwicklung &amp; Design unter <b>havelmade</b>
+  <img src="assets/banner.png" alt="7danee – Front- &amp; Backendentwickler" width="100%">
 </p>
 
 ---
-
-### Hey, ich bin Julian.
-
-Ich konzipiere, gestalte und baue Interfaces – vor allem NUI für GTA-V-Roleplay-Server.
-Mein Fokus liegt auf zwei Dingen: Performance und eine hochwertige visuelle Darstellung.
-Daneben arbeite ich freiberuflich als Webentwickler und Designer unter der Marke **havelmade** (Havelland, Brandenburg).
-
-### Arbeitsweise
-
-**Design-Manual → Richtlinien → Umsetzung.**
-Ich arbeite KI-gestützt, aber ein Prompt allein ergibt kein gutes Design. Dafür braucht es ein Design-Manual, klare Richtlinien und jemanden, der das Ganze durchdenkt. Mein Schwerpunkt ist die UI; Backend-Aufgaben unterstütze ich bei Bedarf, ebenfalls KI-gestützt.
 
 ### Erfahrung
 
@@ -26,18 +11,6 @@ Ich arbeite KI-gestützt, aber ein Prompt allein ergibt kein gutes Design. Dafü
 - Abgeschlossene Ausbildung zum Mediengestalter, Schwerpunkt Digital
 - Ein Jahr Ausbildung als Fachinformatiker für Anwendungsentwicklung
 - Grundlagen selbst beigebracht, in der Ausbildung vertieft
-
-### Highlight
-
-<p align="center">
-  <a href="https://github.com/7danee/gta-portfolio">
-    <img src="https://raw.githubusercontent.com/7danee/gta-portfolio/main/assets/collage.png" alt="Collage aus dem gta-portfolio" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <b><a href="https://github.com/7danee/gta-portfolio">gta-portfolio</a></b> · UI-Showcase meiner NUI-Arbeit für GTA-V-Roleplay
-</p>
 
 ### Berührungspunkte
 
