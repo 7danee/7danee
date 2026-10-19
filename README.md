@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="7danee – Front- &amp; Backendentwickler" width="100%">
+  <img src="assets/header.png" alt="7danee – Front- &amp; Backendentwickler" width="100%">
 </p>
 
 ---
@@ -19,4 +19,6 @@
 
 ### Kontakt
 
-Discord: `7danee`
+<p>
+  <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="18" align="center" alt="Discord">&nbsp; <b>7danee</b>
+</p>
