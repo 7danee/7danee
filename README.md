@@ -4,14 +4,6 @@
 
 ---
 
-### Erfahrung
-
-- Langjährige Entwicklung von Inhalten für GTA V – Modding auf **alt:V**, **RageMP** und **FiveM** (mit FiveM seit Jahren)
-- Mitarbeit als Entwickler bei **gCity** unter der Leitung von Isaac
-- Abgeschlossene Ausbildung zum Mediengestalter, Schwerpunkt Digital
-- Ein Jahr Ausbildung als Fachinformatiker für Anwendungsentwicklung
-- Grundlagen selbst beigebracht, in der Ausbildung vertieft
-
 ### Berührungspunkte
 
 <p>
