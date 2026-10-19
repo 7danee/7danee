@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-7danee.png" alt="7danee – Front- &amp; Backendentwickler" width="100%">
+  <img src="assets/banner-7danee-v3.png" alt="7danee – Front- &amp; Backendentwickler" width="100%">
 </p>
 
 ---
