@@ -54,4 +54,4 @@ Ich arbeite KI-gestützt, aber ein Prompt allein ergibt kein gutes Design. Dafü
 
 ### Kontakt
 
-Discord: `[DISCORD-NAME]`
+Discord: `7danee`
